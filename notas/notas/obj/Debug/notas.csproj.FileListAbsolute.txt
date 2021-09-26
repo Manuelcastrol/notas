@@ -1,0 +1,5 @@
+C:\Users\MINEDUCYT\Documents\GitHub\notas\notas\notas\obj\Debug\notas.csproj.AssemblyReference.cache
+C:\Users\MINEDUCYT\Documents\GitHub\notas\notas\notas\obj\Debug\notas.Form1.resources
+C:\Users\MINEDUCYT\Documents\GitHub\notas\notas\notas\obj\Debug\notas.Properties.Resources.resources
+C:\Users\MINEDUCYT\Documents\GitHub\notas\notas\notas\obj\Debug\notas.csproj.GenerateResource.cache
+C:\Users\MINEDUCYT\Documents\GitHub\notas\notas\notas\obj\Debug\notas.csproj.CoreCompileInputs.cache
